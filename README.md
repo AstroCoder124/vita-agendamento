@@ -3,7 +3,7 @@
 Sistema completo de agendamento online para clínicas e consultórios.
 
 ## 🔗 Demo ao vivo
-[Ver projeto](LINK_DO_VERCEL_AQUI)
+https://vita-agendamento.vercel.app/
 
 ## ✦ Destaques
 - Fluxo de agendamento em 4 etapas com navegação livre
